@@ -47,8 +47,7 @@ Este projeto foi desenvolvido por iniciativa própria, com o objetivo de aplicar
 ### 1. Clone o repositório
 
 ```bash
-[git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_REPOSITORIO](https://github.com/alissonneckel13-sys?tab=repositories)
+(https://github.com/alissonneckel13-sys?tab=repositories)
 ```
 
 
