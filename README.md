@@ -47,7 +47,7 @@ Este projeto foi desenvolvido por iniciativa própria, com o objetivo de aplicar
 ### 1. Clone o repositório
 
 ```bash
-(https://github.com/alissonneckel13-sys?tab=repositories)
+https://github.com/alissonneckel13-sys?tab=repositories
 ```
 
 
